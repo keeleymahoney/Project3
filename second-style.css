@@ -1,0 +1,125 @@
+header
+{
+    background-color: #CF366C;
+    color: #FBF18C;
+    text-align:center;
+    border: #BBAAFF;
+    border-style: solid;
+    border-width: thick;
+    font-size: 30px;
+    
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#navigation
+{
+    background-color: #BBAAFF;
+    width: 100%;
+    font-family:Arial, Helvetica, sans-serif;
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    
+
+}
+
+
+#navigation a
+{
+    color: #FBF18C;
+    text-align:center;
+    font-size: 20px;
+
+}
+
+.introduction
+{
+    font-size: 30px;
+    border-color: #BBAAFF;
+    border-style: solid;
+    border-width: thick;
+    text-align: center;
+}
+
+body
+{
+    background-color: #FBF18C;
+    color:#CF366C;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.techimg
+{
+    text-align: center;
+}
+
+
+
+#link a:visited
+{
+    color:#CF366C;
+}
+
+.information h2
+{
+    font-size: 40px;
+    background-color:#CF366C;
+    color:#FBF18C;
+}
+
+.information h4
+{
+    background-color:#BBAAFF;
+    color:#FBF18C;
+}
+
+.information a:visited
+{
+    color: #FBF18C;
+}
+
+#uipath a:visited
+{
+    color:#CF366C;
+}
+
+.techprofile
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 300px;
+}
+
+#serviceimg
+{
+    text-align:center;
+}
+
+footer
+{
+    background-color: #CF366C;
+    color: #FBF18C;
+    text-align:center;
+}
+
+.pics
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align:center;
+}
+
+
+#resume
+{
+    text-align:center;
+}
+
+button
+{
+    background-color: #BBAAFF;
+    font-size: 30px;
+    color: #FBF18C;
+    font-family:Arial, Helvetica, sans-serif;
+}

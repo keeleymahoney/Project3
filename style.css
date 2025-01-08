@@ -1,0 +1,150 @@
+header
+{
+    background-color:maroon;
+    color:white;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    border-style: solid;
+    border-width: medium;
+    border:white;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    
+}
+
+header h1
+{
+    border-style:solid;
+    border-width: medium;
+    border-color: white;
+}
+
+#navigation
+{
+    width: 300px;
+    height: 100%;
+    position: fixed;
+    padding-top: 150px;
+    text-align:center;
+
+}
+#navigation a
+{
+    font-size: 30px;
+    border-style:solid;
+    border-width: medium;
+    border-color: white;
+    color:white;
+    display: block;
+    background-color:maroon;
+    text-align:center;
+    height: 16%;
+}
+
+.introduction
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 350px;
+    color: maroon;
+    font-size: 30px;
+    padding-top: 150px;
+    
+
+}
+
+.pics
+{
+    padding-left:350px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align:center;
+
+}
+
+.information
+{
+    padding-left: 350px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.information h2
+{
+    color: maroon;
+    border-style:solid;
+    border-width: medium;
+    border-color: maroon;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.information p
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.information h4
+{
+    color: maroon;
+    font-weight:bold;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#resume
+{
+    text-align:center;
+}
+
+.techimg
+{
+    text-align: center;
+    padding-bottom:75px;
+}
+
+.service-info
+{
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr;
+    column-gap: 300px;
+}
+
+#serviceimg
+{
+    text-align:center;
+}
+
+#footer
+{
+    padding-left: 350px;
+    text-align:center;
+    background-color:maroon;
+    color:white;
+}
+
+button
+{
+    background-color: white;
+    color: maroon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+    font-size: 30px;
+}
+
+footer h2
+{
+    color:white;
+}
+
+
+
+
+
+
+
+
